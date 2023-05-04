@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: 一分钟日落
 cover-img: /assets/img/image.jpg
 tags: [edit]
 ---
