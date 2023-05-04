@@ -2,7 +2,7 @@
 layout: post
 title: The First Post
 subtitle: something meaningless
-gh-repo: toodeoo/beautiful-jekyll
+gh-repo: toodeoo/toodeoo.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
