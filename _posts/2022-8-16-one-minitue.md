@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一分钟日落
-cover-img: /assets/img/image.jpg
+cover-img: /assets/img/image.png
 tags: [edit]
 ---
 
