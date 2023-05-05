@@ -1,7 +1,7 @@
 ---
 layout: post
 title: web服务器的实现
-cover-img: /assets/img/微信图片_20230505141135/jpg
+cover-img: /assets/img/微信图片_20230505141135.jpg
 tags: [report, 计算机网络]
 ---
 
