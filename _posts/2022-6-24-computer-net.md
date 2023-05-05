@@ -1,3 +1,9 @@
+---
+layout: post
+title: web服务器的实现
+tags: [report, 计算机网络]
+---
+
 ## 一、 实验目的
 
 -  了解并使用socket
